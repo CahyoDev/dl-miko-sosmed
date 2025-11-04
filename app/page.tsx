@@ -94,7 +94,7 @@ export default function Home() {
             <p>
               Powered by{" "}
               <a
-                href="https://github.com/imputnet/cobalt"
+                href="https://instagram.com/cahyo_kuun"
                 target="_blank"
                 rel="noreferrer noopener"
                 className="text-white hover:underline"
