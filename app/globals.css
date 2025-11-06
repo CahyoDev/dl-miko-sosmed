@@ -14,7 +14,7 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
+    --background: url('https://files.catbox.moe/7hp5e0.jpg');
     --foreground: #ededed;
   }
 }
